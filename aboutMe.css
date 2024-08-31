@@ -141,3 +141,9 @@ w {
 .buttonMargin{
     height: 1.5rem;
 }
+.icon{
+    height: 1.25rem;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 0.25rem;
+}
