@@ -142,8 +142,14 @@ w {
     height: 1.5rem;
 }
 .icon{
+    display: inline-block;
     height: 1.25rem;
     margin: 0 auto;
     position: relative;
     border-radius: 0.25rem;
+}
+.blankicon{
+    display: inline-block;
+    width: 1.25rem;
+    aspect-ratio: 1 / 1;
 }
